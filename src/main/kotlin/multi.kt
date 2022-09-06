@@ -4,4 +4,7 @@ fun main () {
 
     println(a * b)
 
+    var x  =45
+    var y =45
+    println(x + y)
 }
