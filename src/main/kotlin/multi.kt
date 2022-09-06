@@ -3,5 +3,5 @@ fun main () {
     var b= 47
 
     println(a * b)
-    
+
 }
